@@ -2,7 +2,7 @@
   
   <font color="red"> ## Olá pessoal :heart: </font>
   
-  : books: Sou estudante de Análise e Desenvolvimento de Sistemas  no IFPB Campus Cajazeiras  :collision:
+   Sou estudante de Análise e Desenvolvimento de Sistemas  no IFPB Campus Cajazeiras  :collision:
   Atualmente, estou focando  em desenvolver minhas habilidades no Front-End  :blue_heart:
   
   Pretendo futuramente seguir essa área e  me preparar para oportunidades que possam surgir. </br>
